@@ -1,0 +1,6 @@
+const config = {
+  TIME_DELAY_TO_UPDATE_CRYPTOCURRENCY_DATA: 10000,
+  CRYPTOCURRENCY_DATA_ITEMS_COUNT_INDEX_PAGE: 20,
+};
+
+export default config;
